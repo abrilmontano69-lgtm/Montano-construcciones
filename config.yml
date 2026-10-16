@@ -1,0 +1,254 @@
+backend:
+  name: github
+  repo: TU_USUARIO/TU_REPOSITORIO
+  branch: main
+media_folder: assets/uploads
+public_folder: /assets/uploads
+locale: es
+collections:
+- name: sitio
+  label: Contenido del sitio
+  files:
+  - name: principal
+    label: Editar Montaño Construcciones
+    file: contenido.json
+    format: json
+    fields:
+    - label: Textos de la página
+      name: textos
+      widget: object
+      collapsed: true
+      fields:
+      - label: Montaño Construcciones · Desde 2018
+        name: texto_01
+        widget: string
+        required: false
+      - label: Cada metro cuadrado cuenta.
+        name: texto_02
+        widget: string
+        required: false
+      - label: Construimos y transformamos espacios con planificación, diseño y una mirada puesta en
+        name: texto_03
+        widget: text
+        required: false
+      - label: Qué hacemos
+        name: texto_04
+        widget: string
+        required: false
+      - label: Nuestro propósito
+        name: texto_05
+        widget: string
+        required: false
+      - label: Portfolio
+        name: texto_06
+        widget: string
+        required: false
+      - label: Soluciones para cada proyecto.
+        name: texto_07
+        widget: string
+        required: false
+      - label: Calidad, funcionalidad y confianza.
+        name: texto_08
+        widget: string
+        required: false
+      - label: Obras y proyectos.
+        name: texto_09
+        widget: string
+        required: false
+      - label: Acompañamos distintas etapas de la construcción con servicios adaptados a las necesid
+        name: texto_10
+        widget: text
+        required: false
+      - label: Un espacio para mostrar el trabajo, los detalles y la evolución de cada proyecto.
+        name: texto_11
+        widget: string
+        required: false
+      - label: Construcción de viviendas
+        name: texto_12
+        widget: string
+        required: false
+      - label: Ampliaciones y remodelaciones
+        name: texto_13
+        widget: string
+        required: false
+      - label: Proyectos y dirección técnica
+        name: texto_14
+        widget: string
+        required: false
+      - label: Obras comerciales
+        name: texto_15
+        widget: string
+        required: false
+      - label: Nuestra misión
+        name: texto_16
+        widget: string
+        required: false
+      - label: Nuestra visión
+        name: texto_17
+        widget: string
+        required: false
+      - label: Cómo trabajamos
+        name: texto_18
+        widget: string
+        required: false
+      - label: Proyectos pensados para aprovechar los espacios y responder a las necesidades de quie
+        name: texto_19
+        widget: text
+        required: false
+      - label: Transformamos espacios existentes para mejorar su distribución, funcionalidad y estét
+        name: texto_20
+        widget: string
+        required: false
+      - label: Planificación y acompañamiento técnico según las características y el alcance de cada
+        name: texto_21
+        widget: string
+        required: false
+      - label: Espacios funcionales pensados para acompañar las necesidades de cada actividad.
+        name: texto_22
+        widget: string
+        required: false
+      - label: Brindar soluciones integrales de diseño y construcción, combinando calidad, funcional
+        name: texto_23
+        widget: text
+        required: false
+      - label: Consolidarnos como una empresa constructora de referencia en el Valle de Uco y la reg
+        name: texto_24
+        widget: text
+        required: false
+      - label: 'Profesionalismo, honestidad, compromiso y cuidado de los recursos en cada etapa, con '
+        name: texto_25
+        widget: text
+        required: false
+      - label: Quiénes somos
+        name: texto_26
+        widget: string
+        required: false
+      - label: Una manera diferente de construir.
+        name: texto_27
+        widget: string
+        required: false
+      - label: Montaño Construcciones nació en 2018, de la iniciativa de Cristian Montaño, Maestro M
+        name: texto_28
+        widget: text
+        required: false
+      - label: A través de su experiencia en el diseño de proyectos y el relevamiento de viviendas e
+        name: texto_29
+        widget: text
+        required: false
+      - label: 'En 2018 decidió dar un paso más en su actividad profesional: pasar del diseño y la di'
+        name: texto_30
+        widget: text
+        required: false
+      - label: Su primera vivienda fue una oportunidad para poner a prueba su capacidad de planifica
+        name: texto_31
+        widget: text
+        required: false
+      - label: Con el tiempo, Montaño Construcciones fue evolucionando, incorporando nuevas solucion
+        name: texto_32
+        widget: text
+        required: false
+      - label: Construimos para nuestros clientes con el cuidado, la responsabilidad y la dedicación
+        name: texto_33
+        widget: text
+        required: false
+      - label: Una empresa familiar · Desde 2018
+        name: texto_34
+        widget: string
+        required: false
+      - label: Contacto
+        name: texto_35
+        widget: string
+        required: false
+      - label: Contanos tu proyecto.
+        name: texto_36
+        widget: string
+        required: false
+      - label: Completá el formulario y enviá tu consulta directamente a nuestro WhatsApp. Te respon
+        name: texto_37
+        widget: text
+        required: false
+      - label: Montaño Construcciones Construcción · Diseño · Soluciones técnicas
+        name: texto_38
+        widget: string
+        required: false
+      - label: ¿Tenés un proyecto en mente?
+        name: texto_39
+        widget: string
+        required: false
+      - label: Hablemos de lo que querés construir.
+        name: texto_40
+        widget: string
+        required: false
+      - label: Contanos tu idea y los datos principales de la obra para iniciar una conversación.
+        name: texto_41
+        widget: string
+        required: false
+      - label: MONTAÑO CONSTRUCCIONES
+        name: texto_42
+        widget: string
+        required: false
+      - label: Cada metro cuadrado cuenta.
+        name: texto_43
+        widget: string
+        required: false
+      - label: Viviendas
+        name: texto_44
+        widget: string
+        required: false
+      - label: Remodelaciones
+        name: texto_45
+        widget: string
+        required: false
+      - label: Obras comerciales
+        name: texto_46
+        widget: string
+        required: false
+      - label: Construcción y diseño
+        name: texto_47
+        widget: string
+        required: false
+      - label: Nuevas posibilidades para cada espacio
+        name: texto_48
+        widget: string
+        required: false
+      - label: Espacios funcionales
+        name: texto_49
+        widget: string
+        required: false
+    - label: Imágenes generales
+      name: imagenes
+      widget: object
+      fields:
+      - label: Imagen de portada
+        name: portada
+        widget: image
+      - label: Imagen institucional
+        name: presentacion
+        widget: image
+      - label: Logo
+        name: logo
+        widget: image
+    - label: Proyectos y galerías
+      name: proyectos
+      widget: list
+      summary: '{{fields.title}}'
+      fields:
+      - label: Nombre del proyecto
+        name: title
+        widget: string
+      - label: Descripción breve
+        name: subtitle
+        widget: string
+        required: false
+      - label: Fotografías
+        name: photos
+        widget: list
+        summary: '{{fields.caption}}'
+        fields:
+        - label: Fotografía
+          name: src
+          widget: image
+        - label: Descripción de la fotografía
+          name: caption
+          widget: string
+          required: false

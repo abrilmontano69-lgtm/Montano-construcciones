@@ -1,0 +1,90 @@
+{
+  "textos": {
+    "texto_01": "Montaño Construcciones · Desde 2018",
+    "texto_02": "Cada metro cuadrado cuenta.",
+    "texto_03": "Construimos y transformamos espacios con planificación, diseño y una mirada puesta en encontrar mejores soluciones para cada proyecto.",
+    "texto_04": "Qué hacemos",
+    "texto_05": "Nuestro propósito",
+    "texto_06": "Portfolio",
+    "texto_07": "Soluciones para cada proyecto.",
+    "texto_08": "Calidad, funcionalidad y confianza.",
+    "texto_09": "Obras y proyectos.",
+    "texto_10": "Acompañamos distintas etapas de la construcción con servicios adaptados a las necesidades de cada cliente.",
+    "texto_11": "Un espacio para mostrar el trabajo, los detalles y la evolución de cada proyecto.",
+    "texto_12": "Construcción de viviendas",
+    "texto_13": "Ampliaciones y remodelaciones",
+    "texto_14": "Proyectos y dirección técnica",
+    "texto_15": "Obras comerciales",
+    "texto_16": "Nuestra misión",
+    "texto_17": "Nuestra visión",
+    "texto_18": "Cómo trabajamos",
+    "texto_19": "Proyectos pensados para aprovechar los espacios y responder a las necesidades de quienes los habitan.",
+    "texto_20": "Transformamos espacios existentes para mejorar su distribución, funcionalidad y estética.",
+    "texto_21": "Planificación y acompañamiento técnico según las características y el alcance de cada trabajo.",
+    "texto_22": "Espacios funcionales pensados para acompañar las necesidades de cada actividad.",
+    "texto_23": "Brindar soluciones integrales de diseño y construcción, combinando calidad, funcionalidad y eficiencia para desarrollar proyectos que respondan a las necesidades de cada cliente. Trabajamos con profesionalismo, honestidad y compromiso, buscando siempre el equilibrio entre calidad, costo y confianza.",
+    "texto_24": "Consolidarnos como una empresa constructora de referencia en el Valle de Uco y la región, reconocida por la calidad de sus proyectos, la confianza de sus clientes y su capacidad de ofrecer soluciones constructivas eficientes e innovadoras. Aspiramos a un crecimiento sostenido, con una estructura profesional, organizada y rentable, manteniendo nuestra identidad y dedicación al diseño.",
+    "texto_25": "Profesionalismo, honestidad, compromiso y cuidado de los recursos en cada etapa, con atención al diseño y a las necesidades de cada cliente.",
+    "texto_26": "Quiénes somos",
+    "texto_27": "Una manera diferente de construir.",
+    "texto_28": "Montaño Construcciones nació en 2018, de la iniciativa de Cristian Montaño, Maestro Mayor de Obras, y de su convicción de que era posible ofrecer una manera diferente de construir.",
+    "texto_29": "A través de su experiencia en el diseño de proyectos y el relevamiento de viviendas existentes, Cristian pudo observar construcciones con deficiencias en el diseño, materiales de baja calidad y terminaciones poco cuidadas. Esto lo llevó a plantearse que era posible ofrecer una alternativa que combinara calidad constructiva, buen diseño, eficiencia y, fundamentalmente, honestidad y compromiso con el cliente.",
+    "texto_30": "En 2018 decidió dar un paso más en su actividad profesional: pasar del diseño y la dirección técnica a ofrecer un servicio integral de construcción, incluyendo materiales, mano de obra y gestión de cada etapa del proyecto.",
+    "texto_31": "Su primera vivienda fue una oportunidad para poner a prueba su capacidad de planificación, optimizar recursos y demostrar que era posible construir con calidad, cuidando tanto los detalles como los costos. Aquella obra marcó el comienzo de un camino de aprendizaje, crecimiento y mejora continua.",
+    "texto_32": "Con el tiempo, Montaño Construcciones fue evolucionando, incorporando nuevas soluciones constructivas y una visión moderna del diseño, sin perder los valores que dieron origen al proyecto.",
+    "texto_33": "Construimos para nuestros clientes con el cuidado, la responsabilidad y la dedicación con los que construiríamos nuestro propio hogar.",
+    "texto_34": "Una empresa familiar · Desde 2018",
+    "texto_35": "Contacto",
+    "texto_36": "Contanos tu proyecto.",
+    "texto_37": "Completá el formulario y enviá tu consulta directamente a nuestro WhatsApp. Te responderemos a la brevedad.",
+    "texto_38": "Montaño Construcciones Construcción · Diseño · Soluciones técnicas",
+    "texto_39": "¿Tenés un proyecto en mente?",
+    "texto_40": "Hablemos de lo que querés construir.",
+    "texto_41": "Contanos tu idea y los datos principales de la obra para iniciar una conversación.",
+    "texto_42": "MONTAÑO CONSTRUCCIONES",
+    "texto_43": "Cada metro cuadrado cuenta.",
+    "texto_44": "Viviendas",
+    "texto_45": "Remodelaciones",
+    "texto_46": "Obras comerciales",
+    "texto_47": "Construcción y diseño",
+    "texto_48": "Nuevas posibilidades para cada espacio",
+    "texto_49": "Espacios funcionales"
+  },
+  "imagenes": {
+    "portada": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=85",
+    "presentacion": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=85",
+    "logo": "/assets/logo.png"
+  },
+  "proyectos": [
+    {
+      "title": "Viviendas",
+      "subtitle": "Construcción y diseño",
+      "photos": [
+        {
+          "src": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1400&q=85",
+          "caption": "Imagen ilustrativa · Viviendas"
+        }
+      ]
+    },
+    {
+      "title": "Remodelaciones",
+      "subtitle": "Nuevas posibilidades para cada espacio",
+      "photos": [
+        {
+          "src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1400&q=85",
+          "caption": "Imagen ilustrativa · Remodelaciones"
+        }
+      ]
+    },
+    {
+      "title": "Obras comerciales",
+      "subtitle": "Espacios funcionales",
+      "photos": [
+        {
+          "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1400&q=85",
+          "caption": "Imagen ilustrativa · Obras comerciales"
+        }
+      ]
+    }
+  ]
+}
